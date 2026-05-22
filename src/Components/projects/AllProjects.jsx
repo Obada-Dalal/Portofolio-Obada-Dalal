@@ -61,7 +61,7 @@ const allProjects = [
     view: "https://go-store.onrender.com"
   }
 ];
-const newAllProjects = allProjects.reverse.map((e) => {
+const newAllProjects = allProjects.reverse().map((e) => {
   return (
     <div className="all-projects" data-aos="fade-up" key={e.id}>
       <div className="image-all-projects">

@@ -37,7 +37,7 @@ const react = [
     view: "https://go-store.onrender.com"
   }
 ];
-const newReact = react.reverse.map((e) => {
+const newReact = react.reverse().map((e) => {
   return (
     <div className="all-projects" data-aos="fade-up" key={e.id}>
       <div className="image-all-projects">
