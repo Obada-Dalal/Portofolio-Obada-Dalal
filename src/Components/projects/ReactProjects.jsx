@@ -27,6 +27,14 @@ const react = [
     des: "The Gym App project is an interactive web application developed using the React library to create a modern and user‑friendly interface for managing and tracking workout exercises. The application focuses on delivering a smooth user experience. It relies on React components to build a dynamic interface, with clean code organization and performance optimizations to ensure fast responsiveness across different devices. This project aims to enhance my skills in front‑end development using React and in building practical, interactive user experiences.",
     source: "https://github.com/Obada-Dalal/Project-GymWebSite",
     view: "https://project-gymwebsite.netlify.app/"
+  },
+  {
+    id: 4,
+    image: "images/E-commerce_GO-STORE.png",
+    title: "e-commerce website",
+    des: "A complete e-commerce store for selling tech accessories. Built with React + Node.js/Express and MongoDB. Features an interactive user interface, shopping cart, order system, JWT authentication, and an admin dashboard for managing products, users, and advertisements. Images are hosted on Cloudinary, and the app is deployed on Render. Modern, fully responsive design.",
+    source: "https://github.com/Obada-Dalal/frontend-go-store",
+    view: "https://go-store.onrender.com"
   }
 ];
 const newReact = react.map((e) => {
