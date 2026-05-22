@@ -6,20 +6,21 @@ import { LuSquareArrowOutUpRight } from "react-icons/lu";
 const allProjects = [
   {
     id: 1,
-    image: "images/estate app.jpeg",
-    title: "estate app",
-    des: "Estate App is an interactive real‑estate web application built using React, designed to provide a modern and user‑friendly interface for managing property buying, selling, and renting. The app functions similarly to a real‑estate office, allowing users to browse available properties, filter them by type, location, or price, and view detailed information for each listing in a clean and organized layout. It leverages React components to create a dynamic and responsive interface, with well‑structured code to ensure smooth performance across different devices. This project aims to strengthen my skills in front‑end development and in building practical, real‑world applications.",
-    source: "https://github.com/Obada-Dalal/Project-EstateApp",
-    view: "https://project-estateapp.netlify.app/"
+    image: "images/project-responsive-level-1.jpeg",
+    title: "project-responsive-level-1",
+    des: "This project is a simple web page built using HTML and CSS to practice the fundamentals of responsive design. It focuses on creating a clean interface that adapts smoothly to different screen sizes, using Flexbox and Media Queries to enhance layout consistency and user experience.",
+    source: "https://github.com/Obada-Dalal/ProjectResponsive",
+    view: "https://project-responsive-level-1.netlify.app/"
   },
   {
     id: 2,
-    image: "images/FreshFruits app.jpeg",
-    title: "FreshFruits app",
-    des: "FreshFruits App is an interactive web application built using React, with a strong focus on implementing smooth and engaging animations. The app showcases a collection of fruits in a modern and visually appealing way, enhanced by fluid transitions and motion effects that improve user interaction. It leverages React components to create a dynamic interface, along with animation techniques or libraries to deliver an enjoyable visual experience. This project aims to strengthen my skills in building animated, interactive user interfaces and enhancing user experience through motion design in React.",
-    source: "https://github.com/Obada-Dalal/Project-Fresh-Fruits-using-React",
-    view: "https://project-freshfruits.netlify.app/"
+    image: "images/project-responsive-level-2.jpeg",
+    title: "project-responsive-level-2",
+    des: "This project represents an advanced step in applying responsive design principles using HTML and CSS. It focuses on building a more refined and structured web page compared to Level 1 by improving layout organization and creating a professional interface that adapts smoothly to various screen sizes. The project utilizes technologies such as Flexbox and Grid for dynamic element arrangement, along with Media Queries to adjust the design across different devices.",
+    source: "https://github.com/Obada-Dalal/ProjectResponsive-Livel-Tow",
+    view: "https://project-responsive-level-2.netlify.app"
   },
+
   {
     id: 3,
     image: "images/gym app.jpeg",
@@ -37,20 +38,20 @@ const allProjects = [
     view: "https://dashbord-responsive.netlify.app"
   },
   {
-    id: 5,
-    image: "images/project-responsive-level-2.jpeg",
-    title: "project-responsive-level-2",
-    des: "This project represents an advanced step in applying responsive design principles using HTML and CSS. It focuses on building a more refined and structured web page compared to Level 1 by improving layout organization and creating a professional interface that adapts smoothly to various screen sizes. The project utilizes technologies such as Flexbox and Grid for dynamic element arrangement, along with Media Queries to adjust the design across different devices.",
-    source: "https://github.com/Obada-Dalal/ProjectResponsive-Livel-Tow",
-    view: "https://project-responsive-level-2.netlify.app"
+    id: 2,
+    image: "images/FreshFruits app.jpeg",
+    title: "FreshFruits app",
+    des: "FreshFruits App is an interactive web application built using React, with a strong focus on implementing smooth and engaging animations. The app showcases a collection of fruits in a modern and visually appealing way, enhanced by fluid transitions and motion effects that improve user interaction. It leverages React components to create a dynamic interface, along with animation techniques or libraries to deliver an enjoyable visual experience. This project aims to strengthen my skills in building animated, interactive user interfaces and enhancing user experience through motion design in React.",
+    source: "https://github.com/Obada-Dalal/Project-Fresh-Fruits-using-React",
+    view: "https://project-freshfruits.netlify.app/"
   },
   {
     id: 6,
-    image: "images/project-responsive-level-1.jpeg",
-    title: "project-responsive-level-1",
-    des: "This project is a simple web page built using HTML and CSS to practice the fundamentals of responsive design. It focuses on creating a clean interface that adapts smoothly to different screen sizes, using Flexbox and Media Queries to enhance layout consistency and user experience.",
-    source: "https://github.com/Obada-Dalal/ProjectResponsive",
-    view: "https://project-responsive-level-1.netlify.app/"
+    image: "images/estate app.jpeg",
+    title: "estate app",
+    des: "Estate App is an interactive real‑estate web application built using React, designed to provide a modern and user‑friendly interface for managing property buying, selling, and renting. The app functions similarly to a real‑estate office, allowing users to browse available properties, filter them by type, location, or price, and view detailed information for each listing in a clean and organized layout. It leverages React components to create a dynamic and responsive interface, with well‑structured code to ensure smooth performance across different devices. This project aims to strengthen my skills in front‑end development and in building practical, real‑world applications.",
+    source: "https://github.com/Obada-Dalal/Project-EstateApp",
+    view: "https://project-estateapp.netlify.app/"
   },
   {
     id: 7,

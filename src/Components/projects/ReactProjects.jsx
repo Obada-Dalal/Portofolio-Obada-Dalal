@@ -6,11 +6,11 @@ import { LuSquareArrowOutUpRight } from "react-icons/lu";
 const react = [
   {
     id: 1,
-    image: "images/estate app.jpeg",
-    title: "estate app",
-    des: "Estate App is an interactive real‑estate web application built using React, designed to provide a modern and user‑friendly interface for managing property buying, selling, and renting. The app functions similarly to a real‑estate office, allowing users to browse available properties, filter them by type, location, or price, and view detailed information for each listing in a clean and organized layout. It leverages React components to create a dynamic and responsive interface, with well‑structured code to ensure smooth performance across different devices. This project aims to strengthen my skills in front‑end development and in building practical, real‑world applications.",
-    source: "https://github.com/Obada-Dalal/Project-EstateApp",
-    view: "https://project-estateapp.netlify.app/"
+    image: "images/gym app.jpeg",
+    title: "gym app",
+    des: "The Gym App project is an interactive web application developed using the React library to create a modern and user‑friendly interface for managing and tracking workout exercises. The application focuses on delivering a smooth user experience. It relies on React components to build a dynamic interface, with clean code organization and performance optimizations to ensure fast responsiveness across different devices. This project aims to enhance my skills in front‑end development using React and in building practical, interactive user experiences.",
+    source: "https://github.com/Obada-Dalal/Project-GymWebSite",
+    view: "https://project-gymwebsite.netlify.app/"
   },
   {
     id: 2,
@@ -22,11 +22,11 @@ const react = [
   },
   {
     id: 3,
-    image: "images/gym app.jpeg",
-    title: "gym app",
-    des: "The Gym App project is an interactive web application developed using the React library to create a modern and user‑friendly interface for managing and tracking workout exercises. The application focuses on delivering a smooth user experience. It relies on React components to build a dynamic interface, with clean code organization and performance optimizations to ensure fast responsiveness across different devices. This project aims to enhance my skills in front‑end development using React and in building practical, interactive user experiences.",
-    source: "https://github.com/Obada-Dalal/Project-GymWebSite",
-    view: "https://project-gymwebsite.netlify.app/"
+    image: "images/estate app.jpeg",
+    title: "estate app",
+    des: "Estate App is an interactive real‑estate web application built using React, designed to provide a modern and user‑friendly interface for managing property buying, selling, and renting. The app functions similarly to a real‑estate office, allowing users to browse available properties, filter them by type, location, or price, and view detailed information for each listing in a clean and organized layout. It leverages React components to create a dynamic and responsive interface, with well‑structured code to ensure smooth performance across different devices. This project aims to strengthen my skills in front‑end development and in building practical, real‑world applications.",
+    source: "https://github.com/Obada-Dalal/Project-EstateApp",
+    view: "https://project-estateapp.netlify.app/"
   },
   {
     id: 4,
