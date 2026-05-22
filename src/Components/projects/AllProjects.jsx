@@ -51,9 +51,17 @@ const allProjects = [
     des: "This project is a simple web page built using HTML and CSS to practice the fundamentals of responsive design. It focuses on creating a clean interface that adapts smoothly to different screen sizes, using Flexbox and Media Queries to enhance layout consistency and user experience.",
     source: "https://github.com/Obada-Dalal/ProjectResponsive",
     view: "https://project-responsive-level-1.netlify.app/"
+  },
+  {
+    id: 7,
+    image: "images/E-commerce_GO-STORE.png",
+    title: "e-commerce website",
+    des: "A complete e-commerce store for selling tech accessories. Built with React + Node.js/Express and MongoDB. Features an interactive user interface, shopping cart, order system, JWT authentication, and an admin dashboard for managing products, users, and advertisements. Images are hosted on Cloudinary, and the app is deployed on Render. Modern, fully responsive design.",
+    source: "https://github.com/Obada-Dalal/frontend-go-store",
+    view: "https://go-store.onrender.com"
   }
 ];
-const newAllProjects = allProjects.map((e) => {
+const newAllProjects = allProjects.map.reverse((e) => {
   return (
     <div className="all-projects" data-aos="fade-up" key={e.id}>
       <div className="image-all-projects">
