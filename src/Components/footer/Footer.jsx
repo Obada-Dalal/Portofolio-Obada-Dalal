@@ -62,7 +62,7 @@ export default function Footer() {
             <p>Quick Links</p>
             {linksContent}
           </div>
-          <div className="Services">
+          {/* <div className="Services">
             <h3>Services</h3>
             <ul>
               <li>
@@ -81,7 +81,7 @@ export default function Footer() {
                 <p>serv 5</p>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </div>
       <hr className="custom-hr" />

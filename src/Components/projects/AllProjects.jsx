@@ -60,6 +60,14 @@ const allProjects = [
     des: "A complete e-commerce store for selling tech accessories. Built with React + Node.js/Express and MongoDB. Features an interactive user interface, shopping cart, order system, JWT authentication, and an admin dashboard for managing products, users, and advertisements. Images are hosted on Cloudinary, and the app is deployed on Render. Modern, fully responsive design.",
     source: "https://github.com/Obada-Dalal/frontend-go-store",
     view: "https://go-store.onrender.com"
+  },
+  {
+    id: 8,
+    image: "images/digital-menu.png",
+    title: "digital_menu",
+    des: "Digital Menu - Restaurant Online Menu A modern and responsive digital menu for restaurants. Customers can browse products by categories view ingredients, and add products to cart. Features WhatsApp order submission, real-time notifications, and a smooth mobile-first experience Built with: React.js | CSS3 | Context API | Cloudinary.",
+    source: "https://github.com/Obada-Dalal/digital_menu",
+    view: "https://digital-menu-k7zd.onrender.com"
   }
 ];
 const newAllProjects = allProjects.reverse().map((e) => {

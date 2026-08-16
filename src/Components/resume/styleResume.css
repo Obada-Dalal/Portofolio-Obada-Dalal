@@ -165,7 +165,9 @@
   font-size: 12px;
   white-space: nowrap;
   opacity: 0;
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
   pointer-events: none;
 }
 
@@ -174,7 +176,7 @@
   opacity: 1;
   transform: translateX(-50%) translateY(-5px);
 }
-.main-resume-skills .box-icons div i:hover,
+.main-resume-skills .box-icons div span:hover,
 .icon-tailwind:hover {
   color: var(--secandary-color);
   transition: 0.3s;
